@@ -1,5 +1,8 @@
 # Assignment Template: Python
-This example assignment is written in Python, and tested with pytest. For IIST SCOP Platform
+
+# Description 
+Given a point (x, y), write a program to find out if it lies on the X- 
+axis, Y-axis or on the origin
 
 ### The assignment
 The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
