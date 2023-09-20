@@ -6,3 +6,4 @@ axis, Y-axis or on the origin
 
 ### The assignment
 if it lies on X-Axis print "X axis" or print "Y Axis" if it lies on Y-Axis
+if it doesn't lie on any axis print "No Axis"
